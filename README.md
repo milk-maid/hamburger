@@ -18,4 +18,5 @@ All the following files are programme written during the building of the counter
 | `app.js` | the external javascript file |
 | `style.css` | the linked stylesheet |
 | `README.md` | the readme file added to the root of the repository |
+
 # hamburger
